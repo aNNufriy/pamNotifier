@@ -1,0 +1,8 @@
+tg:
+  chat_id: 123456789
+  bot_token: 123456789:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+em:
+  adr_from: XXXXXXXX@yandex.ru
+  adr_to: XXXXXXXX@YYYYYYY.YY
+  smtp_server: smtp.yandex.ru
+  password: ZZZZZZZZZ
